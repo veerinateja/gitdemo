@@ -1,2 +1,2 @@
 # gitdemo
-this is a git demo video 
+this is a git demo video .
